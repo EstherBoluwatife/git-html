@@ -1,0 +1,50 @@
+.header img{
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 50px;
+}
+
+.sign-in{
+    text-align: center;
+    font-weight: normal;
+}
+
+.login-in-form{
+    text-align: center;
+    background-color: whitesmoke;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    border-radius: 5px;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(247, 241, 241);
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 5px;
+}
+
+.button{
+    background-color: forestgreen;
+    color: white;
+    border-radius: 5px;
+    width: 180px;
+}
+
+.psswrd{
+    margin-bottom: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+@media screen and (max-width:400px){
+}
